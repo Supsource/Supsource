@@ -1,18 +1,18 @@
 
 ### Hi there, I'm Supriyo! 👋
-<a href="https://youtube.com/Sup_dev77">
+<a href="https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ">
   <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
-<a href="https://linkedin.com/in/akshaymarch7">
+<a href="https://linkedin.com/in/Supriyomall">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://instagram.com/Sup_dev77">
   <img align="left" alt="Akshay Saini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://twitter.com/akshaymarch7">
+<a href="https://twitter.com/SupriyoMall">
   <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://facebook.com/akshaymarch7">
+<a href="#">
   <img align="left" alt="Akshay Saini - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br/>
