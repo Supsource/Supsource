@@ -1,5 +1,6 @@
 
-### Hi there, I'm Supriyo! 👋
+### Hi there, I'm Supriyo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+
 <a href="https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ">
   <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
