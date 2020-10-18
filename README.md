@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new skills
 - ⚡ Fun fact: I love ludo
-- 📫 How to reach me: [Insta] (https://www.instagram.com/sup_dev77/?hl=en)
+- 📫 How to reach me: <b>[Insta](https://www.instagram.com/sup_dev77/?hl=en )</b>
+[Insta] (https://www.instagram.com/sup_dev77/?hl=en)
 
 
 ---
