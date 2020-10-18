@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Supriyo! 👋
-<a href="https://youtube.com/akshaymarch7">
+<a href="https://youtube.com/Sup_dev77">
   <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 <a href="https://linkedin.com/in/akshaymarch7">
