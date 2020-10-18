@@ -18,8 +18,6 @@
 </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-<br/>
-
 ## A passionate self-taught web developer and Java Competitive Programmer.
 
 - 🔭 I’m a high school student
@@ -28,8 +26,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new skills
 - ⚡ Fun fact: I love ludo
 - 📫 How to reach me : <b>[Instagram](https://www.instagram.com/sup_dev77/?hl=en )</b>
-
-
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supsource&layout=compact)](https://github.com/Supsource
