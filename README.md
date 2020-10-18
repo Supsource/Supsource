@@ -1,7 +1,5 @@
 
 ### Hi there, I'm Supriyo! 👋
-<br>
-<br>
 <a href="https://youtube.com/akshaymarch7">
   <img align="left" alt="Akshay Saini - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
