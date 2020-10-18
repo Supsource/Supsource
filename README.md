@@ -15,8 +15,7 @@
 <a href="https://facebook.com/akshaymarch7">
   <img align="left" alt="Akshay Saini - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-<br />
-<br />
+<br/>
 
 ## A passionate self-taught web developer and Java Competitive Programmer.
 
