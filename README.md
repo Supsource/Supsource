@@ -15,7 +15,9 @@
 </a>
 <a href="#">
   <img align="left" alt="Akshay Saini - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
+</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
 <br/>
 
 ## A passionate self-taught web developer and Java Competitive Programmer.
