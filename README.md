@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/akshaymarch7">
   <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/akshaymarch7">
+<a href="https://instagram.com/Sup_dev77">
   <img align="left" alt="Akshay Saini - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/akshaymarch7">
