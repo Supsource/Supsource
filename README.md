@@ -31,4 +31,5 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supsource&layout=compact)](https://github.com/Supsource
 )
-
+<br/>
+![Supriyo's github stats](https://github-readme-stats.vercel.app/api?username=Supsource&hide=issues)
