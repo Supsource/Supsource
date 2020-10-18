@@ -1,7 +1,7 @@
 
-### Hi there, I'm Ayushi! 👋
+### Hi there, I'm Supriyo! 👋
 
-## Hi, I'm Supriyo, a passionate self-taught web developer and Java Competitive Programmer.
+## A passionate self-taught web developer and Java Competitive Programmer.
 
 - 🔭 I’m a high school student
 - 🌱 I’m currently learning React.js & data structures in java
