@@ -29,7 +29,7 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supsource&layout=compact)](https://github.com/Supsource
-)![Supriyo's github stats](https://github-readme-stats.vercel.app/api?username=Supsource&hide=issues)
+)
 <br/>
 ### Technologies & Frameworks I have worked with : 
 
