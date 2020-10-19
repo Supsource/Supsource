@@ -28,8 +28,6 @@
 - 📫 How to reach me : <b>[Instagram](https://www.instagram.com/sup_dev77/?hl=en )</b>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supsource&layout=compact)](https://github.com/Supsource
-)
 ### Technologies & Frameworks I have worked with : 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
