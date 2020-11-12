@@ -21,10 +21,9 @@
 ## A passionate self-taught web developer and Java Competitive Programmer.
 
 - 🔭 I’m a high school student
-- 🌱 I’m currently learning React.js & data structures in java
+- 🌱 I’m currently learning Hacking & React.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new skills
-- ⚡ Fun fact: I love ludo
 - 📫 How to reach me : <b>[Instagram](https://www.instagram.com/sup_dev77/?hl=en )</b>
 
 ---
