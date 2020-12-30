@@ -18,10 +18,10 @@
 </a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-## A passionate self-taught web developer and Java Competitive Programmer.
+## A passionate self-taught web developer.
 
 - 🔭 I’m a high school student
-- 🌱 I’m currently learning Hacking & React.js
+- 🌱 I’m currently learning C++ & React.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new skills
 - 📫 How to reach me : <b>[Instagram](https://www.instagram.com/sup_dev77/?hl=en )</b>
