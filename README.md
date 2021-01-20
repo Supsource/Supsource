@@ -23,7 +23,7 @@
 - 🔭 I’m a high school student
 - 🌱 I’m currently learning C++ & React.js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn new skills
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn new skills
 - 📫 How to reach me : <b>[Instagram](https://www.instagram.com/sup_dev77/?hl=en )</b>
 
 ---
