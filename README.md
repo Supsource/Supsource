@@ -1,5 +1,5 @@
 # Supriyo                                                                      
-Class 11, Computer Science                                                    
+Class 11, Computer Science Student                                                   
 Chatra Ganesh Lal High School, Chatra, West Bengal, India                                      
 [E-mail](supriyo.mal.org@gmail.com) | [LinkedIn](https://www.linkedin.com/in/supriyomall/) | [Instagram](https://www.instagram.com/wtf_supp/) | [Twitter](https://twitter.com/tf_yash) | [YouTube](https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ) | [GitHub](https://github.com/Supsource) | [NPM](https://www.npmjs.com/~watt_sup77) |
 ## Skills
