@@ -2,6 +2,8 @@
 Class 11, Computer Science Student                                                   
 Chatra Ganesh Lal High School, Chatra, West Bengal, India                                      
 [E-mail](supriyo.mal.org@gmail.com) | [LinkedIn](https://www.linkedin.com/in/supriyomall/) | [Instagram](https://www.instagram.com/wtf_supp/) | [Twitter](https://twitter.com/tf_yash) | [YouTube](https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ) | [GitHub](https://github.com/Supsource) | [NPM](https://www.npmjs.com/~watt_sup77) |
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Supsource&color=blue alt=Supsource/></p>
+
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
