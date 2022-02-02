@@ -1,22 +1,26 @@
 # Supriyo                                                                      
-Class 11, Computer Science Student                                                   
+Class 11th, Computer Science Student                                                   
 Chatra Ganesh Lal High School, Chatra, West Bengal, India                                      
-[E-mail](supriyo.mal.org@gmail.com) | [LinkedIn](https://www.linkedin.com/in/supriyomall/) | [Instagram](https://www.instagram.com/wtf_supp/) | [Twitter](https://twitter.com/tf_yash) | [YouTube](https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ) | [GitHub](https://github.com/Supsource) | [NPM](https://www.npmjs.com/~watt_sup77) |
+[E-mail](iamsupriyomal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/supriyomall/) | [Instagram](https://www.instagram.com/yaafvckk/) | [Twitter](https://twitter.com/tf_yash) | [YouTube](https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ) | [Leetcode](https://leetcode.com/watt_sup77/) | [NPM](https://www.npmjs.com/~watt_sup77) |
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Supsource&color=blue alt=Supsource/></p>
 
-## Skills
+## About Me
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supsource&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
+I'm a professional and passionate Frond-End Developer focused on efficiency and constant learning. Courteous and enthusiastic, I am interested in Web Applications and everything in its orbit. I am fascinated by web programming, developing apps, and building websites. I am gaining knowledge and ideas working in this area. I am keen to gain more experience in the field. My goal is to build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences. <br>
+For this reason, I'm looking for a company willing to offer me a placement among its developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to a team. I am, therefore currently looking for a job or an internship as a web developer. I always want to learn more, do more, and be more. I’m also a firm believer that we should never settle. I’m hard-working, super curious, passionate, committed, and also a fast learner!
+When I'm not in front of a computer screen, I'm probably watching movies, reading books, or crossing off another item on my bucket list.
 
-* Web Development (Full Stack, REACT)
-* Data Structures and Algorithms
-* Native Android Development
-* Web Development
-* Programming Languages: C++, JavaScript, Java.
-* Version Control System, Git & GitHub
+## Skills :
+- **Programming:** C++, JavaScript, Java, PHP, Golang
+- **Web and Database:** HTLM/CSS, MySQL, SQL Server (SSMS)
+- **Frameworks:** ReactJS, React Native, Bootstrap, OpenCV, Beego
+- **Technology:** Git/GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA, Xcode
+- **Operating System:** macOS, Windows, Linux, Chrome OS
+- **Language:** English, Hindi, Bengali
 
 ## Tools and Technologies
 
