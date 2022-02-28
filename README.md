@@ -1,5 +1,5 @@
 # Supriyo                                                                      
-Class 11th, Computer Science Student                                                   
+Class 12th, Computer Science Student                                                   
 Chatra Ganesh Lal High School, Chatra, West Bengal, India                                      
 [E-mail](iamsupriyomal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/supriyomall/) | [Instagram](https://www.instagram.com/yaafvckk/) | [Twitter](https://twitter.com/tf_yash) | [YouTube](https://www.youtube.com/channel/UCSLXw7Q09MoAmJQPLLxhJLQ) | [Leetcode](https://leetcode.com/watt_sup77/) | [NPM](https://www.npmjs.com/~watt_sup77) |
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Supsource&color=blue alt=Supsource/></p>
