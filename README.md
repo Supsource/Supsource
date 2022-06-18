@@ -118,3 +118,8 @@ When I'm not in front of a computer screen, I'm probably watching movies, readin
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Supsource&theme=onedark&column=9" alt="zumrudu-anka" />
     </a>
 </div>
+
+## LeetCode Stats
+
+   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=watt_sup77)](https://github.com/Supsource/github-readme)
+
