@@ -5,5 +5,4 @@
 3. Full-stack engineer (React, Node, Golang)
 ### Connect with me
 - LinkedIn: https://www.linkedin.com/in/supriyomall/
-- GitHub: https://github.com/Supsource
 - Portfolio: https://iamsupriyo.me/
