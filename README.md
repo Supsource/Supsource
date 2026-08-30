@@ -1,4 +1,4 @@
-## Hi, I'm Supriyo (India, 20)
+## Hi, I'm Supriyo (India, 21)
 ### About Me
 1. Building [Melodex](https://www.melodexstudio.com/), an AI-native music DAW (Cursor for music)
 2. Shipping web & mobile products for 5+ years
