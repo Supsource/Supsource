@@ -2,7 +2,7 @@
 ### About Me
 1. Building [Melodex](https://www.melodexstudio.com/), an AI-native music DAW (Cursor for music)
 2. Shipping web & mobile products for 5+ years, ~2 years professionally
-3. Full-stack engineer (React, Node, Golang)
+3. Software Engineer · Go / TypeScript · Backend & AI Systems
 ### Connect with me
 - LinkedIn: https://www.linkedin.com/in/supriyomall/
-- Portfolio: https://iamsupriyo.me/
+- X: https://x.com/iamsupriyo7
