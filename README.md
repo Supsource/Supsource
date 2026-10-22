@@ -1,7 +1,7 @@
 ## Hi, I'm Supriyo (India, 21)
 ### About Me
 1. Building [Melodex](https://www.melodexstudio.com/), an AI-native music DAW (Cursor for music)
-2. Shipping web & mobile products for 5+ years
+2. Shipping web & mobile products for 5+ years, ~2 years professionally
 3. Full-stack engineer (React, Node, Golang)
 ### Connect with me
 - LinkedIn: https://www.linkedin.com/in/supriyomall/
